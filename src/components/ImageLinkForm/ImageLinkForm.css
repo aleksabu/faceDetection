@@ -1,0 +1,9 @@
+.form{
+    width: 700px;
+    background: rgb(31,36,62);
+    background: linear-gradient(90deg, rgba(31,36,62,1) 0%, rgba(27,32,56,1) 50%, rgba(5,48,57,1) 100%);    
+}
+.center {
+    display: flex;
+    justify-content: center;
+  }
